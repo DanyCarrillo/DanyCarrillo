@@ -1,5 +1,5 @@
 - 👋 Hola, Soy @DanyCarrillo
-- 👀 Soy un profesional apasionado por el desarrollador de software y no estoy atado a ninguna tecnología.
+- 👀 Soy un profesional apasionado por el desarrollo de software y no estoy atado a ninguna tecnología.
 
 <!---
 DanyCarrillo/DanyCarrillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
